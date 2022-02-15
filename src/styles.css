@@ -39,3 +39,21 @@
   .p-1 {
     padding: 1px;
   }
+
+  .contenedor{
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .contenedor__personajes{
+    flex-grow: 1;
+  }
+
+  .contenedor__addPersonajes{
+    flex-grow: 1;
+  }
+
+  input{
+    display: block;
+    margin-bottom: 1rem;
+  }
